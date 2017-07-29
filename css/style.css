@@ -1,0 +1,17 @@
+.date{
+	width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.date td{
+	width: 100px;
+}
+.date tr{
+	height: 50px;
+}
+.Sunday{
+	background-color: black;
+}
+.Saturday{
+	background-color: yellow;
+}
